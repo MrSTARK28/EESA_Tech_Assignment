@@ -1,5 +1,4 @@
 import React from "react";
-import events from '../assets/events.webp';
 import './CardSlider.css';
 
 export default function CardSlider() {
@@ -42,7 +41,7 @@ export default function CardSlider() {
                     <div className="C1">
                         <div className="C2">
                             <img src="d.img" alt=""/>
-                            </div>
+                        </div>
                         <div>
                             <p>{d.eventname}</p>
                             <p>{d.info}</p>

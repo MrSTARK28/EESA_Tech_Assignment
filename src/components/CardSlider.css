@@ -1,5 +1,5 @@
 .S1{
-    width: 3/4;
+    width: 100%;
     margin: auto;
 
 }
@@ -26,5 +26,4 @@
     border-radius: 10px;
     justify-content: center;
     align-items: center;
-    
 }
