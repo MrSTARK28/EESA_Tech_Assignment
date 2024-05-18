@@ -1,0 +1,28 @@
+.S1{
+    width: 3/4;
+    margin: auto;
+
+}
+.S2{
+    margin-top: 20;
+}
+
+.C1{
+    background-color: white;
+    height: 450px;
+    color: black;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-image: url('../assets/events.jpeg');
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+.C2{
+    border-radius: 10px;
+    
+}
