@@ -33,5 +33,45 @@
     margin-top :0px;
     padding-bottom :80px;
     padding-top: 80px;
+    padding-left: 15px;
+    padding-right: 15px;
     width :100%;
+}
+
+.MeetCouncil{
+    background-color: rgb(255, 229, 153);
+    color: rgb(95, 62, 39);
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.imgprofile{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.CouncilMember{
+    padding: 10px;
+    margin: 10px;
+}
+
+.CouncilMembers{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Name{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
 }

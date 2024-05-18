@@ -12,8 +12,6 @@ export default function Nav() {
                 <div className="Child">People</div>
                 <div className="Child">Form</div>
             </div>
-            <div></div>
             </>
-            sf
             );
 }
