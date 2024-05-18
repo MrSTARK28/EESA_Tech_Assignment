@@ -40,7 +40,9 @@ export default function CardSlider() {
             <div className="S2">
                 {data.map((d) =>(
                     <div className="C1">
+                        <div className="C2">
                             <img src="d.img" alt=""/>
+                            </div>
                         <div>
                             <p>{d.eventname}</p>
                             <p>{d.info}</p>
