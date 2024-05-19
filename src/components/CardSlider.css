@@ -9,7 +9,7 @@
 
 .C1{
     background-color: white;
-    height: 450px;
+    height: auto;
     color: black;
     border-radius: 10px;
     font-size: 24px;
@@ -17,8 +17,7 @@
     padding: 10px;
     margin: 10px;
     text-align: center;
-    background-image: url('../assets/events.jpeg');
-    background-repeat: no-repeat;
+    
     justify-content: center;
     align-items: center;
 }
@@ -26,4 +25,58 @@
     border-radius: 10px;
     justify-content: center;
     align-items: center;
+    background-image: url('../assets/events.jpeg');
+    background-repeat: no-repeat;
+    height: 100%
+}
+.C3{
+    margin: auto;
+    padding: auto;
+}
+.T1{
+    background-color: black;
+    color: rgb(228, 220, 220);
+    font-size: 18px;
+    padding: 100px;
+    margin-right: 0px;
+    margin-left: 0px;
+    flex-direction: column;
+}
+.T2{
+    margin: 100px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+table,th,td,tr{
+    border: solid 1px ;
+    border-radius: 12px;
+    border-collapse: collapse;
+}
+tr:nth-child(even) {
+    background-color: #252525;
+    max-width: auto;
+}
+th{
+    padding: 12px;
+    
+}
+td{
+    padding: 12px;
+}
+.T3{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
+.custom-link{
+    color: white; 
 }

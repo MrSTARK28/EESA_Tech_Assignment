@@ -42,7 +42,7 @@ export default function CardSlider() {
                         <div className="C2">
                             <img src="d.img" alt=""/>
                         </div>
-                        <div>
+                        <div className="C3">
                             <p>{d.eventname}</p>
                             <p>{d.info}</p>
                             <button>Read More</button>

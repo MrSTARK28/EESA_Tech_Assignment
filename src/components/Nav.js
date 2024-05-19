@@ -11,6 +11,7 @@ export default function Nav() {
                 <div className="Child">Activities</div>
                 <div className="Child">People</div>
                 <div className="Child">Form</div>
+                <div className="Child">IMP Docs</div>
             </div>
             </>
             );
