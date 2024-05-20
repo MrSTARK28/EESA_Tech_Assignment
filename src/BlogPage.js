@@ -2,6 +2,7 @@ import React from "react";
 import Nav from "./components/Nav";
 import Doctable from "./components/doctable";
 import blogImage from "./assets/blog.png";
+import "./components/CardSlider.css";
 
 export default function BlogPage() {
     return (<>
