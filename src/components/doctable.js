@@ -4,7 +4,7 @@ export default function Doctable() {
     return (
         <div className="T1">
             <div className="T3">
-                    <h2>Some IMP Docs</h2>
+                    <h1>Some IMP Docs</h1>
             </div>
             <hr/>
             <table className="T2">

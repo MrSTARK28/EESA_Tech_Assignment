@@ -19,6 +19,7 @@
     font-weight: bold;
     font-size: 16px;
     position: relative;
+    justify-content: center;
     }  
 
 .H1{
@@ -46,6 +47,8 @@
     padding: 10px;
     margin: 10px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .imgprofile{
@@ -74,4 +77,22 @@
     font-size: 30px;
     font-weight: bold;
     text-align: center;
+}
+.T4{
+    align-items: center;
+    margin: 20px;
+    padding-left: 175px;
+    padding-right: 175px;
+}
+.T5{
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+    align-items: center;
+    border-radius: 12px;
+}
+.logo{
+    width: 100px;
+    height: 50px;
+    margin: 20px;
 }
